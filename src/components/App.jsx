@@ -39,7 +39,7 @@ export class App extends Component {
       <div
         style={{
           height: '100vh',
-          display: 'flex',
+          display: 'flex-start',
           justifyContent: 'center',
           flexDirection: 'column',
           alignItems: 'center',
