@@ -39,13 +39,14 @@ export class App extends Component {
       <div
         style={{
           height: '100vh',
-          display: 'flex-start',
-          justifyContent: 'center',
+          display: 'flex',
+          justifyContent: 'flex-start',
           flexDirection: 'column',
           alignItems: 'center',
           fontSize: 40,
           color: '#eeedf8',
           backgroundColor: '#2c9af4',
+          paddingTop: '20px',
         }}
       >
         <Section title="Please leave feedback">
