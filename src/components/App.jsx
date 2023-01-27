@@ -44,7 +44,8 @@ export class App extends Component {
           flexDirection: 'column',
           alignItems: 'center',
           fontSize: 40,
-          color: '#010101',
+          color: '#eeedf8',
+          backgroundColor: '#2c9af4',
         }}
       >
         <Section title="Please leave feedback">
@@ -69,6 +70,4 @@ export class App extends Component {
       </div>
     );
   }
-};
-
-
+}
