@@ -14,6 +14,7 @@ export const FeedbackButton = styled.button`
   font-size: 24px;
   color: white;
   border-radius: 23%;
+  border: inherit;
   background: linear-gradient(160deg, #ed8bf8, #6d0462);
   padding: 10px;
   cursor: pointer;
