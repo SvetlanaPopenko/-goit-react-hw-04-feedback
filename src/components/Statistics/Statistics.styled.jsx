@@ -7,13 +7,15 @@ export const StatisticList = styled.ul`
     gap: 10px;
     flex-wrap: wrap;
     list-style: none;
-    border: 1px solid red;
     border-radius: 15px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 10px;
+    margin: 0px auto;
+       padding: 10px;
 `;
 
 export const StatisticItem = styled.li`
 font-size: 20px;
+border: 2px solid yellow;
+border-radius: 40%;
+padding: 10px;
+background: linear-gradient(160deg, #f0ade4, #d108ec);
 `;
