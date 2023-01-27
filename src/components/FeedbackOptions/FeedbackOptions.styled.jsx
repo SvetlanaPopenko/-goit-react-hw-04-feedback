@@ -18,7 +18,7 @@ export const FeedbackButton = styled.button`
   background: linear-gradient(160deg, #ed8bf8, #6d0462);
   padding: 10px;
   cursor: pointer;
-   transition: 250ms transform ease-in-out, 250ms box-shadow ease-out,
+  transition: 250ms transform ease-in-out, 250ms box-shadow ease-out,
     250ms color ease-in;
   :hover {
     transform: scale(1.05);
